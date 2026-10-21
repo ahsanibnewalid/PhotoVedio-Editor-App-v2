@@ -1,0 +1,6 @@
+{
+  "name": "CapCut Native Android Studio",
+  "description": "Production-ready React Native & Android video editor architecture inspired by CapCut, featuring Skia GPU shaders, 60 FPS hardware playback, and multi-track timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
